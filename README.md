@@ -1,4 +1,4 @@
-<h1 align="center">AGENT DESKTOP</h1>
+<h1 align="center">AxiomDesk</h1>
 
 <p align="center">
   <strong>OBSERVE. DECIDE. ACT.</strong>
@@ -17,7 +17,7 @@
   <img src="assets/Tutorial.gif" alt="agent-desktop tutorial demo" width="800" />
 </p>
 
-**agent-desktop** is a native desktop automation CLI designed for AI agents, built with Rust. It gives structured access to any application through OS accessibility trees — no screenshots, no pixel matching, no browser required.
+**axiomdesk** is a native desktop automation CLI designed for AI agents, built with Rust. It gives structured access to any application through OS accessibility trees — no screenshots, no pixel matching, no browser required.
 
 ## Architecture
 
